@@ -3,7 +3,7 @@ package com.zxing.blog.vo;
 /**
  * 响应 值对象.
  * 
- * @since 1.0.0 2017年4月4日
+ * @since 2018年4月4日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 public class Response {

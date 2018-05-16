@@ -12,7 +12,7 @@ import com.zxing.blog.repository.AuthorityRepository;
 /**
  * Authority 服务.
  * 
- * @since 1.0.0 2017年3月30日
+ * @since 2018年3月30日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 @Service

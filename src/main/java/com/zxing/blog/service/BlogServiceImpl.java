@@ -19,7 +19,7 @@ import com.zxing.blog.repository.BlogRepository;
 /**
  * Blog 服务.
  * 
- * @since 1.0.0 2017年4月7日
+ * @since 2018年4月7日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 @Service

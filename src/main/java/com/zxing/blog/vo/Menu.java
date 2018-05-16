@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 菜单 值对象.
  * 
- * @since 1.0.0 2017年3月30日
+ * @since 2018年3月30日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 public class Menu implements Serializable{

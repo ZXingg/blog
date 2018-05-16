@@ -17,7 +17,7 @@ import com.zxing.blog.service.UserService;
 /**
  * 主页控制器.
  * 
- * @since 1.0.0 2017年3月8日
+ * @since 2018年3月8日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 @Controller

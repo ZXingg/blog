@@ -19,7 +19,7 @@ import com.zxing.blog.repository.UserRepository;
 /**
  * User 服务.
  * 
- * @since 1.0.0 2017年3月18日
+ * @since 2018年3月18日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 @Service

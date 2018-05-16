@@ -11,7 +11,7 @@ import com.zxing.blog.domain.User;
 /**
  * User 服务接口.
  * 
- * @since 1.0.0 2017年3月18日
+ * @since 2018年3月18日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 public interface UserService {

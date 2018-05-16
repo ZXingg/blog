@@ -8,7 +8,7 @@ import org.springframework.data.elasticsearch.repository.ElasticsearchRepository
 /**
  * Blog 存储库.
  * 
- * @since 1.0.0 2017年3月12日
+ * @since 2018年3月12日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 public interface EsBlogRepository extends ElasticsearchRepository<EsBlog, String> {

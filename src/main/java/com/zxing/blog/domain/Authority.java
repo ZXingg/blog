@@ -11,7 +11,7 @@ import org.springframework.security.core.GrantedAuthority;
 /**
  * 权限.
  * 
- * @since 1.0.0 2017年3月14日
+ * @since 2018年3月14日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 @Entity // 实体

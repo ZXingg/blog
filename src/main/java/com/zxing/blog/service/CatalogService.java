@@ -8,7 +8,7 @@ import com.zxing.blog.domain.User;
 /**
  * Catalog 服务接口.
  * 
- * @since 1.0.0 2017年4月10日
+ * @since 2018年4月10日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 public interface CatalogService {

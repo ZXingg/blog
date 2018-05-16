@@ -1,7 +1,7 @@
 /*!
  * Avatar JS.
  * 
- * @since: 1.0.0 2017/4/6
+ * @since: 2018/4/6
  * @author Way Lau <https://waylau.com>
  */
 "use strict";

@@ -28,7 +28,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 /**
  * User 实体
  * 
- * @since 1.0.0 2017年3月5日
+ * @since 2018年3月5日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 @Entity // 实体

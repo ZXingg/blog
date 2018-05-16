@@ -15,7 +15,7 @@ import com.zxing.blog.domain.Blog;
 /**
  * Blog.
  * 
- * @since 1.0.0 2017年3月5日
+ * @since 2018年3月5日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 @Document(indexName = "blog", type = "blog")

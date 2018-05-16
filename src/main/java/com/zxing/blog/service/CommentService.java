@@ -5,7 +5,7 @@ import com.zxing.blog.domain.Comment;
 /**
  * Comment 服务接口.
  * 
- * @since 1.0.0 2017年4月9日
+ * @since 2018年4月9日
  * @author <a href="https://zxing.com">ZXing</a>
  */
 public interface CommentService {
